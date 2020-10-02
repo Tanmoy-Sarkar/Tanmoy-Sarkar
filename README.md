@@ -1,6 +1,10 @@
 ### Hi there, I'm Tanmoy 👋
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://medium.com/@tanmoy9920)
+[![Medium](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@tanmoy9920)
+[![Instagram](	https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/tanmoy_sarkar_saikat/)
+
+
+
 
 
 ## I'm a Python Developer,Sports Lover,Coder !!
