@@ -70,12 +70,12 @@
 
 </details>
 
-<details>
+
   
 
   <img align="left" alt="Tanmoy's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Tanmoy-Sarkar&show_icons=true&hide_border=true" />
 
-</details>
+
 
 
 
