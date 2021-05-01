@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning django framework🤣
 - 👯 Next learning goal:Machine Learning
-- 🥅 2020 Goals: Learn new things and be more productive.
+- 🥅 2021 Goals: Learn new things and be more productive.
 - ⚡ I am a sports lover and a gamer.
 
 
