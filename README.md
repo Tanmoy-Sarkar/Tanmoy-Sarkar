@@ -7,7 +7,7 @@
 
 
 
-## I'm a Python Developer,Sports Lover,Coder !!
+## I'm a Python Developer/Coder !!
 
 
 - 🌱 I’m currently learning django framework🤣
