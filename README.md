@@ -10,9 +10,7 @@
 ## I'm a Python Developer/Coder !!
 
 
-- 🌱 I’m currently learning django framework🤣
-- 👯 Next learning goal:Machine Learning
-- 🥅 2021 Goals: Learn new things and be more productive.
+- 🌱I'm now working on enhancing my understanding of data structures and algorithms.
 - ⚡ I am a sports lover,gamer and problem solver.
 
 
